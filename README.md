@@ -4,8 +4,6 @@
     KD Voice Verifier Discord-Bot
 </h1>
 
-<br/>
-
 ## 🤝 Contributing
 1. [Fork the repository](https://github.com/AshkanKD/Discord-Voice-Verifier/fork)
 2. Clone your fork: `git clone https://github.com/AshkanKD/Discord-Voice-Verifier.git`
