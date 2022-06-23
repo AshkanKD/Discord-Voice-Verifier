@@ -3,9 +3,6 @@
     <br/>
     KD Voice Verifier Discord-Bot
 </h1>
-<p align="center">
-    First auto voice verifier discord bot
-</p>
 
 <br/>
 
