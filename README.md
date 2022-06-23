@@ -7,8 +7,6 @@
 [![License: MIT](https://img.shields.io/github/license/AshkanKD/Discord-Voice-Verifier)](https://github.com/AshkanKD/Discord-Voice-Verifier/blob/main/LICENSE)
 [![Twitter: AshkanKD](https://img.shields.io/twitter/follow/AshkanKD.svg?style=social)](https://twitter.com/AshkanKD)
 
-> CLI that generates beautiful README.md files.
-
 ### 🏠 [Homepage](https://github.com/AshkanKD)
 
 ## Prerequisites
