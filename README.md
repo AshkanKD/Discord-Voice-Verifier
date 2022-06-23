@@ -1,32 +1,63 @@
-<h1 align="center">
-    <img src="https://cdn.discordapp.com/attachments/860934599505084486/979756158178959391/standard_4.gif" width="224px" alt="Nava Video Player"/>
-    <br/>
-    KD Voice Verifier Discord-Bot
-</h1>
+# Welcome to Discord-Voice-Verifier 👋
+![Version](https://img.shields.io/badge/version-V1--Beta-blue.svg?cacheSeconds=2592000)
+![Prerequisite](https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg)
+![Prerequisite](https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/kefranabg/readme-md-generator#readme)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kefranabg/readme-md-generator/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/github/license/AshkanKD/Discord-Voice-Verifier)](https://github.com/AshkanKD/Discord-Voice-Verifier/blob/main/LICENSE)
+[![Twitter: AshkanKD](https://img.shields.io/twitter/follow/AshkanKD.svg?style=social)](https://twitter.com/AshkanKD)
+
+> CLI that generates beautiful README.md files.
+
+### 🏠 [Homepage](https://github.com/AshkanKD)
+
+## Prerequisites
+
+- npm >=5.5.0
+- node >=9.3.0
+
+## Install
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+node .
+```
+
+## Run tests
+
+```sh
+npm run test
+```
+
+## Author
+
+👤 **AshkanKD**
+
+* Website: kdstore.ir
+* Twitter: [@AshkanKD](https://twitter.com/AshkanKD)
+* Github: [@AshkanKD](https://github.com/AshkanKD)
 
 ## 🤝 Contributing
-1. [Fork the repository](https://github.com/AshkanKD/Discord-Voice-Verifier/fork)
-2. Clone your fork: `git clone https://github.com/AshkanKD/Discord-Voice-Verifier.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request
 
-<br/>
+Contributions, issues and feature requests are welcome!
 
-# 🌟 Spread the word!
+Feel free to check [issues page](https://github.com/AshkanKD/Discord-Voice-Verifier/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
 
-If you want to say thank you and/or support active development of the Paraffin Tutorials Voice Verifier discord-bot:
-- Add a GitHub Star to the project!
-- Join our discord server [KD Community](https://discord.gg/t9wq3xsCya).
-- Follow our team profiles [AshkanKD](https://github.com/AshkanKD)
+## Show your support
 
-Thanks so much for your interest in growing the reach of the Nava app!
+Give a ⭐️ if this project helped you!
 
-<br/>
 
-# ⚠️ License
+## 📝 License
 
-The Paraffin Tutorials Voice Verifier discord-bot is free and open-source bot licensed under the MIT General Public License v3.0. All designs were created by [AshkanKD](https://github.com/AshkanKD).
+Copyright © 2022 [AshkanKD](https://github.com/AshkanKD).
 
-<br />
+This project is [MIT](https://github.com/AshkanKD/Discord-Voice-Verifier/blob/main/LICENSE) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
