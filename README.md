@@ -28,12 +28,6 @@ npm install
 node .
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Author
 
 👤 **AshkanKD**
